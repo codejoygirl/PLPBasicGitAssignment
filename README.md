@@ -13,7 +13,7 @@
    - Created a new folder on my local machine named `PLPBasicGitAssignment`.
    - Opened a terminal and navigated to the folder:
      ```bash
-     cd path/to/PLPBasicGitAssignment
+     cd ~/Documents/PLPBasicGitAssignment
      ```
 
 3. **Git Initialization:**
@@ -25,7 +25,7 @@
 4. **Connecting to GitHub:**
    - Linked the local repository to the GitHub repository:
      ```bash
-     git remote add origin https://github.com/your-username/PLPBasicGitAssignment.git
+     git remote add origin https://github.com/codejoygirl/PLPBasicGitAssignment.git
      ```
 
 ## Task 3: Making Changes
